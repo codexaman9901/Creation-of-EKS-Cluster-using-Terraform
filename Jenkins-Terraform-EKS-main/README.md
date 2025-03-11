@@ -85,7 +85,7 @@ Create IAM User - Generate Access and Secret Keys for Configuration.
 
 Refer to the GitHub repository for the Terraform files.
 
-**Repo URL:** [https://github.com//Jenkins-Terraform-EKS.git](https://github.com//Jenkins-Terraform-EKS.git)
+**Repo URL:** [https://github.com/codexaman9901/Creation-of-EKS-Cluster-using-Terraform.git]
 
 ---
 
